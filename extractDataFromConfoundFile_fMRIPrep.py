@@ -9,11 +9,11 @@ import pandas as pd
 
 base_dir = '/data/'
 
-participants = ['']
+participants = ['001']
 
 runs = ['1', '2']
 
-tasks = ['X, 'Y']
+tasks = ['X', 'Y']
 
 a = 'sub-control{0}'
 b = 'sub-control{0}_ses-1_task-{1}_run-{2}_desc-confounds_regressors.tsv'
