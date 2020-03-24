@@ -17,9 +17,6 @@ base_dir = '/data/subjects'
 participants = ['001']
 runs = ['1','2']
 
-
-This is for the localizer
-
 a = 'outliers_index_run-{0}.txt'
 b = 'sub-control{0}'
 
